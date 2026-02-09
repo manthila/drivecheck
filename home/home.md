@@ -7,7 +7,7 @@ permalink: /
 # Drive Check 🚗
 ### Professional Vehicle Inspection Services
 
-![Vehicle Inspection]({{ site.baseurl }}/assets/images/inspection.png)
+![Vehicle Inspection]({{ site.baseurl }}/assets/images/inspection.jpg)
 
 Drive Check provides **reliable, transparent, and professional vehicle inspections**
 to help you make confident decisions before buying, selling, or maintaining a vehicle.
@@ -16,7 +16,7 @@ to help you make confident decisions before buying, selling, or maintaining a ve
 
 ## 🔧 Our Services
 
-![Car Check]({{ site.baseurl }}/assets/images/car-check.png)
+![Car Check]({{ site.baseurl }}/assets/images/car-check.jpg)
 
 - ✅ Pre-purchase vehicle inspections  
 - ✅ Roadworthiness & safety checks  
@@ -38,7 +38,7 @@ to help you make confident decisions before buying, selling, or maintaining a ve
 
 ## 📊 What We Inspect
 
-![Inspection Process]({{ site.baseurl }}/assets/images/process.png)
+![Inspection Process]({{ site.baseurl }}/assets/images/process.jpg)
 
 - Engine & transmission  
 - Braking system  
